@@ -7,3 +7,5 @@ My hello to game development with Godot Engine!
   - [Gonkee/Gonkees-Shaders](https://github.com/Gonkee/Gonkees-Shaders)
 - Youtube Channels
   - [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)
+- Other
+  - [The Book of Shaders](https://thebookofshaders.com/)
